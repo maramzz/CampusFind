@@ -1,4 +1,4 @@
-package com.compusfind.itemservice;
+package com.campusfind.itemservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
